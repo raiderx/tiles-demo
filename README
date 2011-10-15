@@ -1,0 +1,4 @@
+tiles-demo
+----------
+
+mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DartifactId=tilesdemo -DgroupId=org.karpukhin -Dpackage=org.karpukhin.tilesdemo -Dversion=0.1-SNAPSHOT
